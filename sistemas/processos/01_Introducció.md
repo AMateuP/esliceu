@@ -6,13 +6,13 @@ En el món de la informàtica, la gestió de processos és una part fonamental p
 
 En aquest treball, explorarem els conceptes bàsics de la gestió de processos, les seves característiques i la seva importància en el context dels sistemes informàtics.
 
-## Conceptes Bàsics
+## [Conceptes Bàsics](/02_Conceptes_Bàsics)
 
 ### Què és un Procés?
 
 Un procés és una entitat dinàmica que es crea quan s'inicia un programa en un sistema informàtic. Pot contenir diferents fils d'execució, anomenats fils de procés, que comparteixen recursos però funcionen de manera independent.
 
-### Estats del Procés
+### [Estats del Procés](/02_Conceptes_Bàsics/2.2_Estats_del_Procés.md)
 
 Els processos passen per diferents estats al llarg del seu cicle de vida, com ara l'estat d'espera, l'estat d'execució i l'estat de finalització. La gestió eficient implica controlar la transició entre aquests estats per optimitzar l'ús dels recursos del sistema.
 
