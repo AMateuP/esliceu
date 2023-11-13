@@ -14,6 +14,6 @@ Els processos passen per diversos estats durant el seu cicle de vida, i la compr
 
 6. **Completat (Terminated):** Quan el procés ha completat la seva execució, passa a aquest estat. Pot ser un estat final o pot ser seguit d'altres accions, com ara la recollida de recursos.
 
-![Estats d’un procés]("Transicio.png")
+![Estats d’un procés](Transicio.png)
 
 La gestió eficient implica controlar la transició entre aquests estats per optimitzar l'ús dels recursos del sistema.
