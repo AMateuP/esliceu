@@ -8,11 +8,11 @@ En aquest treball, explorarem els conceptes bàsics de la gestió de processos, 
 
 ## Conceptes Bàsics
 
-### Què és un Procés?
+### [Què és un Procés?](/sistemas/processos/2.1_Què_és_un_Procés.md)
 
 Un procés és una entitat dinàmica que es crea quan s'inicia un programa en un sistema informàtic. Pot contenir diferents fils d'execució, anomenats fils de procés, que comparteixen recursos però funcionen de manera independent.
 
-### Estats del Procés
+### [Estats del Procés](/sistemas/processos/2.2_Estats_del_Procés.md)
 Els processos passen per diferents estats al llarg del seu cicle de vida, com ara l'estat d'espera, l'estat d'execució i l'estat de finalització. La gestió eficient implica controlar la transició entre aquests estats per optimitzar l'ús dels recursos del sistema.
 
 ## Planificació de Processos
